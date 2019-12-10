@@ -38,4 +38,4 @@ Although Jest may be considered a React-specific test runner, in fact it is a un
 
 ## Hapi.js
 
-- [Testing Hapi.js With Jest](http://niralar.com/testing-hapi-js-with-jest/) by Niralar ([Sivasankar](http://sivasankar.in/))
+- [Testing Hapi.js With Jest](http://niralar.com/testing-hapi-js-with-jest/) by Niralar ([Venkatesan](http://sivasankar.in/))
